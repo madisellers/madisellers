@@ -1,5 +1,5 @@
 ## About Me
-I am a Junior attending George Mason University. I am currently pursuing a B.S. in Applied Computer Science with an emphasis in COmputer Game Design. I also intend to earn a Masters in Software Engineering. I love all things game programming and hope to join the gaming industry!
+I am a Junior attending George Mason University. I am currently pursuing a B.S. in Applied Computer Science with an emphasis in Computer Game Design. I also intend to earn a Masters in Software Engineering. I love all things game programming and hope to join the gaming industry!
 
 ## Languages
 In order of proficiency:
@@ -14,6 +14,7 @@ In order of proficiency:
 A Unity package intended for developers that features simple-to-implement "building blocks" that may be required for a range of games. Each building block contains the documentation describing the intended use as well as limitations or considerations developers must take when using in their own games.
 
 **Text-Based Yahtzee©-like Dice Game**
+
 A simple dice game played within the cmd that follows the rules of the Hasboro dice game Yahtzee©. Select between single player against the computer or a local two-player versus. Roll, choose dice to hold, and score all with keyboard commands. The game ends when both players have marked their scores and the higher score wins!
 
 ## Class Projects
