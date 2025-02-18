@@ -8,10 +8,13 @@ In order of proficiency:
 - C#
 - C/C++
 
-## Current Projects
-**Building Blocks**
+## Personal Projects
+**IN PROGRESS: Building Blocks**
 
 A Unity package intended for developers that features simple-to-implement "building blocks" that may be required for a range of games. Each building block contains the documentation describing the intended use as well as limitations or considerations developers must take when using in their own games.
+
+**Text-Based Yahtzee©-like Dice Game**
+A simple dice game played within the cmd that follows the rules of the Hasboro dice game Yahtzee©. Select between single player against the computer or a local two-player versus. Roll, choose dice to hold, and score all with keyboard commands. The game ends when both players have marked their scores and the higher score wins!
 
 ## Class Projects
 **IN PROGRESS: Unnamed VR Horde Combat** - Spring 2025, Unity
